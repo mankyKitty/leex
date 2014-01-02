@@ -6,8 +6,10 @@ parsetools. I will update this site to be compatible with the
 distribution, but after that all leex development I do will be done
 here.
 
-If you are looking at a good article on how to use leex and yecc try:
-http://hopper.squarespace.com/blog/2008/5/29/leex-and-yecc.html
+If you are looking at a good article on how to use leex and yecc try: 
+http://blog.rusty.io/2011/02/08/leex-and-yecc/ . It is a re-post of this:
+http://hopper.squarespace.com/blog/2008/5/29/leex-and-yecc.html, because it
+is no longer available.
 
 v0.5
 ----
