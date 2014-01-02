@@ -1,0 +1,7 @@
+*.beam
+*.dump
+
+ebin/*
+
+# Sigh OSX
+.DS_Store
